@@ -10,18 +10,6 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | --- | --- | --- | --- | --- |
 | Nutanix Certification | Nutanix | They are providing free certifications until New year | [Link](https://next.nutanix.com/education-blog-153/kick-start-the-new-year-with-free-certification-exams-40333) | January 31, 2022 |
 | Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
-| Google Cloud | Google | One free month at Qwiklabs, Pluralsight & Coursera learning platforms. Pluralsight & Coursera require a credit card. Don’t forget to cancel in time.   (Qwiklabs seem still to work. Rest - expired) | [Link](https://inthecloud.withgoogle.com/training-discount/register.html) | ?31-May-2020? |
-| Agile | Atlassian | Free access to Atlassian’s on-demand courses ($300 value each). | [Link](https://training.atlassian.com/free-training-catalog) | 30-Jun-2020 |
-| Programming | Packt | 15 free programming & data science certificate courses by Packt ($20 value each). | [Link](https://courses.packtpub.com/pages/free) | 31-Jul-2020 |
-| Azure | Microsoft | Complete any one or more challenges and update your skills on LinkedIn on or before October 31, 2021, and stand a chance to collect your Free Microsoft Certification Exam Voucher*  | [Link]( https://www.microsoft.com/en-in/campaign/azuredeveloperleague/)| Oct 31 2021 |
-| IT | CompTIA / Jobs.mo.gov | The CompTIA Mentored Learning Program is a free program for displaced workers offering online instructor-led workshops that cover a technical computer curriculum geared toward IT industry-recognized CompTIA certification. | [Link](https://jobs.mo.gov/content/comptia) | 04-Dec-2020 |
-| HYCU | HYCU | Free Certified Enterprise Cloud HYCU Admin certification for HYCU customers and partners. Free swags for those who complete before end of October 2020. | [Link](https://blog.hycu.com/data-protection/you-asked-we-listened-hycu-learning-center) | 31-Dec-2020 |
-| Kubernetes | Rancher | Free “Certified Rancher Operator: Level 1” on-demand training & certification by Rancher. | [Link](https://academy.rancher.com/courses/course-v1:RANCHER+K101+2019/about) | 14-Jul-2021 |
-| Alibaba Cloud | Alibaba Cloud | Alibaba Cloud Associate (ACA) Cloud Computing Certification Training. | [Link](https://us06web.zoom.us/meeting/register/tZ0sduCurDMpH9CrWYPr-85JiJPFMBl-bLhK?spm=a3c0i.11597099.7300010950.9.1310224acvradr) / [Link](https://edu.alibabacloud.com/training?utm_campaign=eloqua_nonreg_yes_MYS_NovTraining_20211028&utm_medium=email&utm_source=Eloqua&utm_content=eloqua#J_7300010950) | 11-Nov-2021 |
-| Alibaba Cloud | Alibaba Cloud | For the very first time, Alibaba Cloud is offering free Alibaba Cloud Professional (ACP) Cloud Computing Certification Training. | [Link](https://us06web.zoom.us/meeting/register/tZAtd-ipqj0vE9KPEzh5J-T23KSFSsLQxCcY?spm=a3c0i.11597099.7300010950.12.1310224acvradr) / [Link](https://edu.alibabacloud.com/training?utm_campaign=eloqua_nonreg_yes_MYS_NovTraining_20211028&utm_medium=email&utm_source=Eloqua&utm_content=eloqua#J_7300010950) | 17-Nov-2021 |
-| Alibaba Cloud | Alibaba Cloud | Alibaba Cloud Professional (ACP) Container Service Certification Training. | [Link](https://us06web.zoom.us/meeting/register/tZYvduisrD4uGNX-jny2Y06uEBmcg1os9V74?spm=a3c0i.11597099.7300010950.14.1310224acvradr) / [Link](https://edu.alibabacloud.com/training?utm_campaign=eloqua_nonreg_yes_MYS_NovTraining_20211028&utm_medium=email&utm_source=Eloqua&utm_content=eloqua#J_7300010950) | 22-Nov-2021 |
-| Alibaba Cloud | Alibaba Cloud | For the very first time, Alibaba Cloud is offering free Alibaba Cloud Professional (ACP) Cloud Computing Certification Training. | [Link](https://us06web.zoom.us/meeting/register/tZErceisqTsiGty5X5gz8Z0QOGN7pNgsP5CG?spm=a3c0i.11597099.7300010950.17.1310224acvradr) / [Link](https://edu.alibabacloud.com/training?utm_campaign=eloqua_nonreg_yes_MYS_NovTraining_20211028&utm_medium=email&utm_source=Eloqua&utm_content=eloqua#J_7300010950) | 24-Nov-2021 |
-| AWS | AWS | Get AWS Certified Sub-Saharan Africa Challenge. The first 6,000 participants who request vouchers will also be eligible to take a practice exam and take the AWS Cloud Practitioner certification exam free of charge (normally $100). | [Link](https://pages.awscloud.com/EMEA_TC_join-the-ssa-challenge.html) | 3-Dec-2021 |
 | OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited |
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
@@ -48,6 +36,8 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
+| Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
+| SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
@@ -59,6 +49,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | AI | Microsoft AI | Microsoft AI Classroom Series. Microsoft has joined forces with NASSCOM FutureSkills® to deliver Microsoft’s AI, machine learning and data science expertise to students through easy-to-consume modules including demos, hands-on workshop and assignments. | [Link](http://thetechco.in/MicrosoftAIforStudents/index) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
 | Calico | Calico | Certified Calico Operator: Level 1. | [Link](https://academy.tigera.io/course/certified-calico-operator-level-1/) | Unknown |
+| Calico | Calico | Certified Calico Operator: AWS Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-aws-expert/) | Unknown |
+| Calico | Calico | Certified Calico Operator: Azure Expert | [Link](https://academy.tigera.io/course/certified-calico-operator-azure-expert/) | Unknown |
+| Calico | Calico | Certified Calico Operator: eBPF | [Link](https://academy.tigera.io/course/certified-calico-operator-ebpf/) | Unknown |
 | Stepik | Stepik | Several free courses with certificates are available for reference in design, computer science, mathematics, etc. | [Link](https://stepik.org/catalog/search?cert=true&free=true) | Unknown |
 | LoRaWAN | TheThingsNetwork | The Things Fundamentals, The Things Advanced, The Things Security and The Things Network Management. | [Link](https://www.thethingsnetwork.org/achievements/) | Unknown |
 | DevOps-Automation | CHEF | FREE Chef Principles Certification Exam | [Link](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about) | Unknown |
@@ -79,9 +72,11 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Azure DevOps | Microsoft| Microsoft Azure Devops Expert Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take the Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) |  2023 |
 | Azure infrastructure architect | Microsoft | Microsoft Infrastructure architect Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&WT.mc_id=cloudskillschallenge_8db0f3ef-c6eb-4b6f-9db2-ce5c8c7e2ecc&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
 | AI Automation | Microsoft| Microsoft Azure AI Certification: Register and complete the learning path within start amd end date to get Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=8aee1e58-eeb8-409f-b0d0-d15afcc8045c&WT.mc_id=cloudskillschallenge_8aee1e58-eeb8-409f-b0d0-d15afcc8045c&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
-
-
-
+| Kyverno | Nirmata| Kyverno Fundamentals Certification | [Link](https://learn.nirmata.com/courses/kyverno-fundamentals-certification/) | Unknown |
+| Cilium | Isovalent | Getting Started with Cilium | [Link](https://isovalent.com/labs/getting-started-with-cilium/) | Unknown |
+| Cilium | Isovalent | Cilium Service Mesh | [Link](https://isovalent.com/labs/cilium-service-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Cluster Mesh | [Link](https://isovalent.com/labs/cilium-cluster-mesh/) | Unknown |
+| Cilium | Isovalent | Cilium Enterprise: Network Policies | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/) | Unknown |
 
 
 ## Security
@@ -89,7 +84,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
 | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
-| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | 31-Dec-2020 |
+| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
 | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
 | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
@@ -141,7 +136,9 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Kahoot! | Kahoot! Certified for schools, free program designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
 | Explain Everything | Free Explain Everything course and certification. | [Link](https://explaineverything.com/the-explain-everything-certification-course-is-here/) | Unlimited |
 | SkillFront | Free SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™ | [Link](https://www.skillfront.com/Free-Business-Entrepreneurship-Program-Certification) | Unlimited |
-| CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown | 
+| CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
+| CertiProf| Business Model Canvas Essentials Professional Certification - BMCEPC | [Link](https://certiprof.com/pages/business-model-canvas-essentials-bmce) | Unknown |
+| CertiProf| Business Intelligence Foundation Professional Certification - BIFPC (Spanish Only) | [Link](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | Unknown |
 | Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
 | Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown
 | OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown
